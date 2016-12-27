@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://qdjxd.gnway.cc:10086/JLMSL/swipe/ssp.ipa</string>
+                   <string>http://ssp.qdrise.cn:8888/HSE_INSIDE/swipe/ssp.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://qdjxd.gnway.cc:10086/JLMSL/swipe/b.png</string>
+                   <string>http://ssp.qdrise.cn:8888/HSE_INSIDE/swipe/b.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,14 +27,14 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://qdjxd.gnway.cc:10086/JLMSL/swipe/b.png</string>
+                   <string>http://ssp.qdrise.cn:8888/HSE_INSIDE/swipe/b.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>com.ccssoft.mopclient.chongqing</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>2.1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
